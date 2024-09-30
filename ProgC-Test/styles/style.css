@@ -1,0 +1,15 @@
+#red {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+#pic1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 8%;
+    border-color: black;
+    box-shadow: -2px 2px 10px 1px black
+}
